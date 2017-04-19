@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ayirus/StudioProjects/LineGame1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/home/ayirus/StudioProjects/LineGame1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-19.1.0_71fd693d76c3f4347b8387120ff782bc78a2620b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayirus/StudioProjects/LineGame1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e191f607d7fa887dcf8fea898bbac70e882d3360">
+        <dex dex="/home/ayirus/StudioProjects/LineGame1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6c11ff971bcb054eee20ff976e2f77661d82801d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayirus/StudioProjects/LineGame1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="defe87b91a5ebf8aaf0fa19775100035a8d236d6">
+        <dex dex="/home/ayirus/StudioProjects/LineGame1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0f1c4565a350822b4158c16d61586a5a18ce934e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayirus/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/ayirus/StudioProjects/LineGame1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_f50a9e5964eafced5a63e9fd6572a11731225643/classes.dex" />
+    </item>
+
+</items>

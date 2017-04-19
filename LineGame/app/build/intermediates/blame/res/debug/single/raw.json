@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ayirus/StudioProjects/LineGame1/app/build/intermediates/res/merged/debug/raw/sel.wav",
+        "source": "/home/ayirus/StudioProjects/LineGame1/app/src/main/res/raw/sel.wav"
+    },
+    {
+        "merged": "/home/ayirus/StudioProjects/LineGame1/app/build/intermediates/res/merged/debug/raw/press.wav",
+        "source": "/home/ayirus/StudioProjects/LineGame1/app/src/main/res/raw/press.wav"
+    },
+    {
+        "merged": "/home/ayirus/StudioProjects/LineGame1/app/build/intermediates/res/merged/debug/raw/looptrack.wav",
+        "source": "/home/ayirus/StudioProjects/LineGame1/app/src/main/res/raw/looptrack.wav"
+    }
+]
